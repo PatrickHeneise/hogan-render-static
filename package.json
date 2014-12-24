@@ -1,0 +1,15 @@
+{
+  "name": "hogan-render-static",
+  "version": "0.1.0",
+  "description": "hogan-render-static",
+  "main": "index.js",
+  "author": "Patrick Heneise <patrick@blended.io> (http://blended.io)",
+  "license": "MIT",
+  "devDependencies": {
+    "async": "^0.9.0",
+    "hogan": "^1.0.2"
+  },
+  "scripts": {
+    "render": "node hogan-render.js"
+  }
+}
